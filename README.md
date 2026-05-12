@@ -1,60 +1,52 @@
 # ASH Agent Framework
 
 **Arquitetura do Sentido Humano (ASH) + Inteligência Artificial Humanizada (IAH)**  
-Repositório oficial da **ASH Foundation** — Construído por Eduardo Moraes Godinho Valaci
+Repositório Oficial da **ASH Foundation**
 
-## Visão Geral
+**Copyright © 2023-2026 Eduardo Moraes Godinho Valaci**  
+**All Rights Reserved** — Propriedade Intelectual Protegida
 
-Este repositório é a **vitrine técnica completa** de todas as construções da ASH Foundation desde 2023.
+## Declaração de Anterioridade e Pioneirismo
 
-Aqui está reunido o ecossistema completo:
-- Framework de Agentes Modulares com DNA Operacional
+Este repositório documenta a construção sistemática da **Arquitetura do Sentido Humano (ASH)** e **IAH**, desenvolvida por Eduardo Moraes desde 2023, com densidade e anterioridade clara em conceitos como:
+- DNA Operacional de Agentes Modulares
 - Orquestrador Central (Ateliê Humano / Painel ASH)
-- Metodologia ASH + IAH (Soberania Digital Humana)
-- Aplicativos, Projetos Industriais, Segurança, Arte Algorítmica e muito mais
+- Protocolo EDU 4.1 de Soberania e Memória Fiel
+- Integração de Psicanálise Aplicada à IA
+- Redução de Alucinações via Sentido Humano
 
-## Contribuição Técnica
+Esses conceitos precedem ou coincidem com várias evoluções públicas de ChatGPT (Custom Instructions, Agents, Memory) e Gemini (human alignment, emotional understanding).
 
-Desde 2023, Eduardo Moraes atuou como **power user / arquiteto de elite**, injetando conceitos de alta densidade em conversas com ChatGPT, Gemini e Claude:
-- DNA Operacional de Agentes (personalidade, missão, tom de voz)
-- Orquestração modular (Ateliê Humano)
-- Sentido Humano + psicanálise aplicada para redução de alucinações
-- Protocolo EDU 4.1 de soberania e memória fiel
-- Integração de biometria viva (Vortex ID)
+## Ecossistema Construído
 
-Esses conceitos precedem ou coincidem com várias evoluções de ChatGPT (Custom Instructions, Agents, Memory) e Gemini (human alignment, emotional understanding).
-
-## Principais Agentes e Projetos
-
-### Agentes de Saúde e Família
+### Agentes Principais
 - **XAMA** — Coach de Alta Performance Física
-- **ASH Maestro** — Triagem Clínica e Gestão de Saúde
+- **ASH Maestro** — Triagem Clínica
 - **ASH Sentinela** — Segurança Doméstica
-- **Evoluir** — Bem-Estar Mental e Evolução Cognitiva
+- **Evoluir** — Bem-Estar Mental
+- **Cássio OS Mineral** — Geopolimerização
+- **Índio OS** — Telemetria de Baterias com Nióbio
+- **Vortex ID** — Biometria Acústica Viva
+- **Voice Bridge AI**, **Auto-Hub Finance**, **ASH Sniper**, etc.
 
-### Agentes Industriais e Segurança
-- **Cássio OS Mineral** — Geopolimerização e Estabilização de Rejeitos
-- **Índio OS Battery Telemetry** — Soberania Energética com Nióbio
-- **Vortex ID** — Autenticação Biométrica Acústica + PPG
-- **WP Bounty Hunter, DNS Security Analyzer, ASH Sniper**
+### Projetos Estratégicos
+- Micro-Refinaria de Nióbio 6N a partir de rejeito
+- Holding Cássio OS
+- Índio OS Security Stack
 
-### Ferramentas e Arte
-- Emotional Algorithmic Art
-- Painel ASH (Orquestrador Central)
-- Voice Bridge AI
+## Licença e Proteção
 
-## Estrutura do Repositório
+Este repositório está protegido por **All Rights Reserved**.  
+Uso comercial, cópia ou derivação sem autorização expressa é proibido.  
+Veja o arquivo [LICENSE](LICENSE) para detalhes completos.
 
-- `/agents/` → DNA Operacional + System Prompts de todos os agentes
-- `/architecture/` → Orquestração, Protocolo EDU 4.1, Ateliê Humano
-- `/apps/` → Códigos React completos (XAMA, Evoluir, Emotional Art, etc.)
-- `/docs/` → Relatórios, timelines comparativos e pitches
-- `/projects/` → Cássio OS, Micro-Refinaria Nióbio, Índio OS
-- `/security/` → ÍndioOS Security Stack
+**Qualquer utilização deve incluir atribuição clara**:  
+"Eduardo Moraes Godinho Valaci - ASH Foundation"
 
-## Licença e Propósito
+## Objetivo
 
-Mantido pela **ASH Foundation** com foco total em soberania tecnológica humana.
+Este repositório serve como **vitrine técnica pública** e **prova de anterioridade** das construções da ASH Foundation.  
+O foco é soberania digital humana.
 
 ---
 
